@@ -1,2 +1,2 @@
 # holestic
-Crowdsourced app to identify manhles and potholes
+Crowdsourced app to identify manholes and potholes.
